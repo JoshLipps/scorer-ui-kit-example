@@ -20,7 +20,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.3",
     "react-use-websocket": "^2.2.0",
-    "scorer-ui-kit": "^1.5.0-test.17",
+    "scorer-ui-kit": "^1.5.0-test.18",
     "styled-components": "^5.1.0",
     "typescript": "^4.0.2"
   },
